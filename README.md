@@ -3,7 +3,7 @@
 A modern, animated landing page built entirely with **HTML5** and **CSS3** – no JavaScript involved!  
 Features a stylish **Mega Menu**, clean layout, and custom sections for showcasing your brand or product. 🧩
 
-🔗 **[Live Demo]([https://parsadgh.github.io/Avada-Classic-/](https://parsadgh.github.io/Avada-Classic/))**  
+🔗 **[Live Demo](https://parsadgh.github.io/Avada-Classic/)**  
 
 ---
 
